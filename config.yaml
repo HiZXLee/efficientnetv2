@@ -1,0 +1,8 @@
+EFFICIENTNETV2_CONFIG:
+  efficientnetv2.yaml
+version:
+  s
+num_classes:
+  500
+dropout_rate:
+  0.2
